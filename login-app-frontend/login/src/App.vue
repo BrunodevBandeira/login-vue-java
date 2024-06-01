@@ -1,10 +1,10 @@
 <script setup>
-  import HelloWorld from './components/LoginView.vue'
+  import LoginView from './components/LoginView.vue'
 </script>
 
 <template>
  
-  <HelloWorld msg="Vite + Vue" />
+  <LoginView  />
 </template>
 
 <style scoped>
